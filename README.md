@@ -38,12 +38,6 @@ Kelas        : TI.22.A1
 ![3](https://github.com/tiaraputriiiiii/Lab11Web/assets/115775237/ff545e31-7eed-4754-8001-7474b236743a)
 
 
-**4. Hasil Output Halaman Home :**
-![4](https://github.com/tiaraputriiiiii/Lab11Web/assets/115775237/48764994-97f6-43ef-98e7-5880cd593be6)
-
-
-**7. Hasil Output Halaman About :**
-![5](https://github.com/tiaraputriiiiii/Lab11Web/assets/115775237/b88e3cc8-8bc0-4678-90b6-b6675de22b83)
 
 **8. Hasil Output Halaman Contact :**
 ![6](https://github.com/tiaraputriiiiii/Lab11Web/assets/115775237/e4cb0de5-b709-4c6d-bf9b-b6bc12d1859d)
