@@ -1,8 +1,8 @@
 # Lab11Web
 
 ```
-Nama         : Tiara Putri
-NIM          : 312210009
+Nama         : Frans Putra Sinaga
+NIM          : 312210046
 Kelas        : TI.22.A1
 ```
 
